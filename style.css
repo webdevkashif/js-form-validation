@@ -1,0 +1,41 @@
+body {
+    background-color: #4158D0;
+background-image: linear-gradient(to left, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+.col-md-6 {
+margin-top :150px !important;
+padding: 20px !important;
+
+}
+
+h1 {
+    font-family: monospace;
+    font-weight: bold;
+}
+
+input {
+margin: 10px;
+    padding: 10px !important;
+}
+
+ button {
+     float: left;
+ padding: 10px;
+} 
+ 
+small {
+    text-align: left !important;
+    color: rgb(238, 89, 89);
+    font-weight: bold;
+    
+    
+}
+
+.success {
+    border: 2px solid green;
+}
+
+.error {
+    border: 2px solid red;
+}
